@@ -30,6 +30,8 @@
 
 ## File-based project format:
 *.iws
+*.xml
+*.iml
 
 ## Plugin-specific files:
 
